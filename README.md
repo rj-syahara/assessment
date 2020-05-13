@@ -1,2 +1,3 @@
 # assessment
-あなたのいいところ診断ゲーム
+- rj-syaharaが作ったあなたのいいところ診断ゲーム
+- ISC License
